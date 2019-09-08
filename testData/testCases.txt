@@ -1,0 +1,7 @@
+# 登录测试
+public_page_element*login_ele
+login_frame_element*user_login
+login_frame_element*userName
+login_frame_element*password
+login_frame_element*login_bottom
+#

@@ -1,0 +1,13 @@
+# 登录测试-01
+click;
+mouseClick;
+input;17313056105
+input;xuan89948632.
+submit;
+# 登录测试-02
+click;
+mouseClick;
+input;13228188037
+input;xuan89948632.
+submit;
+#
